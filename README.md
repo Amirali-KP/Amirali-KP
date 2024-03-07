@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GitHub, python, bash, kubernetes, neovim
 - 💞️ I’m looking to collaborate on Getspace to become a L2/L1
 - 📫 You can reach me via my email address :amirali.kavi@gmail.com
-- 😄 Pronouns: he/him/i/me
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Under maintenance :D
 
 <!---
